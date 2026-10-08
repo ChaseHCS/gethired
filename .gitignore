@@ -1,11 +1,8 @@
-# Personal data and run output
-profile.yaml
-jobs.txt
-*.pdf
-out/
-applications.jsonl
-.browser-profile/
+# career-ops checkout, installed by setup.sh
+/career-ops/
 
-__pycache__/
-.pytest_cache/
-.venv/
+# Regenerable career-ops output (tailored CV/cover letter PDFs, caches)
+/me/output/
+/me/data/*.db
+/me/data/parser-output/
+/me/.career-ops-web/

@@ -1,0 +1,27 @@
+# career-ops profile. Schema: career-ops/config/profile.example.yml
+# Identity below is copied from your resume. Target roles, compensation and
+# location policy are left for career-ops onboarding to ask you about, so
+# nothing here is a guess.
+
+candidate:
+  full_name: "Chase Hanson"
+  email: "mrchasehanson@gmail.com"
+  phone: "774-454-5321"
+  location: "Plymouth, MA"
+  linkedin: "linkedin.com/in/chase-hanson-b044411a7"
+  github: "github.com/ChaseHCS"
+  portfolio_url: "https://chasehcs.github.io/windows-portfolio/"
+
+location:
+  country: "United States"
+  city: "Plymouth, MA"
+  timezone: "EST"
+  # A Secret clearance requires US citizenship, so no sponsorship is needed.
+  visa_status: "US citizen (active Secret clearance), no sponsorship needed"
+  authorized_in: ["United States"]
+  needs_sponsorship: false
+
+language:
+  output: en
+
+spend_tier: standard

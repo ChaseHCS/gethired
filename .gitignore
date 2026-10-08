@@ -1,0 +1,8 @@
+# career-ops checkout, installed by setup.sh
+/career-ops/
+
+# Regenerable career-ops output (tailored CV/cover letter PDFs, caches)
+/me/output/
+/me/data/*.db
+/me/data/parser-output/
+/me/.career-ops-web/

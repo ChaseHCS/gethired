@@ -1,0 +1,32 @@
+# Copy to profile.yaml (git-ignored) and fill in.
+# Claude answers application questions using only this file and your resume.
+
+resume: resume.pdf          # PDF, or an .html resume (converted to PDF automatically)
+
+name: First Last
+email: you@example.com
+phone: "555-555-5555"
+location: City, ST
+linkedin: https://www.linkedin.com/in/you
+github: https://github.com/you
+website: https://you.dev
+
+work_authorization: Authorized to work in the US for any employer
+needs_sponsorship: false
+security_clearance: None
+willing_to_relocate: false
+work_arrangement: Remote or hybrid
+desired_salary: Open to discussion
+earliest_start: Two weeks after an offer
+how_did_you_hear: Company careers page
+
+# Voluntary demographic (EEO) questions: "Decline to self-identify", or your answers.
+eeo:
+  gender: Decline to self-identify
+  race_ethnicity: Decline to self-identify
+  veteran_status: Decline to self-identify
+  disability_status: Decline to self-identify
+
+# Anything else Claude may draw on for free-text questions ("Why this company?", etc.).
+notes: |
+  Most interested in offensive security and vulnerability research roles.

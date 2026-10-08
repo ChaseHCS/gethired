@@ -1,0 +1,11 @@
+# Personal data and run output
+profile.yaml
+jobs.txt
+*.pdf
+out/
+applications.jsonl
+.browser-profile/
+
+__pycache__/
+.pytest_cache/
+.venv/
